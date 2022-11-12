@@ -11,3 +11,6 @@ geemap-study
 
 
 3.geemap-利用已有产品随机分层抽样生成256*256图像样本 processimage.ipynb
+
+
+4.geemap-geemap + Colab 中的深度学习推理
