@@ -14,3 +14,6 @@ geemap-study
 
 
 4.geemap-geemap + Colab 中的深度学习推理
+
+
+5.使用Pytorch进行地表水测绘-完整版 -unetwater
